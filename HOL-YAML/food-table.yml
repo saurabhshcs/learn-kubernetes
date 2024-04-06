@@ -1,0 +1,17 @@
+Fruit: Apple
+Drink: Water
+Dessert: Cake
+Vegetable: 
+  - Carrot:
+    Calories: 45
+    Fat: 0.1
+    Carbs: 6
+  - Tomato:
+      Calories: 45
+      Fat: 0.2
+      Carbs: 4.8
+  - Cucumber:
+      Calories: 45
+      Fat: 0.1
+      Carbs: 1.9
+
